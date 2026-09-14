@@ -1,0 +1,5 @@
+## ignore files and folders related to LLMs weights and notebook checkpoints
+Youtube Comments Sentiment Analysis by Finetuning Pretrained GPT2 (124M)/fine_tuned_GPT2(124M)_model_and_optimizer.pth
+.ipynb_checkpoints
+gpt2/124M
+
