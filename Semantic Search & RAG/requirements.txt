@@ -1,0 +1,22 @@
+# LangChain orchestration and community integrations
+langchain==0.2.5
+langchain-community==0.2.5
+
+# Vector search and retrieval
+faiss-cpu
+rank_bm25==0.2.2
+
+# Embedding and model utilities
+sentence-transformers==3.0.1
+transformers
+cohere==5.5.8
+
+# Local GGUF model inference
+llama-cpp-python==0.2.78
+
+# PDF parsing
+PyMuPDF
+
+# Notebook and tensor support
+torch
+ipykernel

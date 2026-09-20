@@ -1,5 +1,21 @@
 ## ignore files and folders related to LLMs weights and notebook checkpoints
-Youtube Comments Sentiment Analysis by Finetuning Pretrained GPT2 (124M)/fine_tuned_GPT2(124M)_model_and_optimizer.pth
 .ipynb_checkpoints
 gpt2/124M
+
+# Text Document Classification by Finetuning Pretrained GPT2
+Text Document Classification by Finetuning Pretrained GPT2/fine_tuned_GPT2(124M)_model_and_optimizer.pth
 Text Document Classification by Finetuning Pretrained GPT2/Text Document Classification - Copy.ipynb
+
+# Youtube Comments Sentiment Analysis by Finetuning Pretrained GPT2 (124M)
+Youtube Comments Sentiment Analysis by Finetuning Pretrained GPT2 (124M)
+
+# Instruction-Based Fine Tuning
+Instruction-Based Fine-Tuning/Instruction-Based Fine-Tuning_Scoring_using_llama3.ipynb
+Instruction-Based Fine-Tuning/trained_model_and_optimizer.pth
+
+# Brain Tumor Image Classification
+Brain Tumor Image Classification/Brain Tumor Image Classification (MRI)/MRI_Pred_Model_Accu_97.pth
+
+# Semantic Search & RAG
+Semantic Search & RAG/metadata
+Semantic Search & RAG/RAG ChatBot using open source models

@@ -1,0 +1,17 @@
+# Numerical computing and image processing
+numpy
+pandas
+pillow
+matplotlib
+
+# PyTorch and computer vision utilities
+torch
+torchvision
+
+# Dataset download, evaluation, and progress reporting
+kagglehub
+scikit-learn
+tqdm
+
+# Notebook execution
+ipykernel

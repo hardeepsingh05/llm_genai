@@ -1,0 +1,18 @@
+# Deep-learning and GPT-2 tokenization
+torch
+tiktoken
+
+# Numerical computing and checkpoint loading
+numpy
+tensorflow
+
+# Dataset loading, progress, and plotting
+requests
+tqdm
+matplotlib
+
+# Notebook execution
+ipykernel
+
+# Process inspection for local Ollama evaluation
+psutil

@@ -1,6 +1,6 @@
 # Text Document Classification by Fine-Tuning GPT-2
 
-This project experiments with adapting the pretrained GPT-2 124M language model for supervised text classification. The accompanying notebook prepares a labeled text dataset, reconstructs the GPT-2 architecture, loads pretrained GPT-2 weights, replaces the language-model output layer with a classification head, and fine-tunes selected model layers.
+This project experiments with adapting the pretrained GPT-2 124M language model for supervised Youtube comments(sentiment) text classification. The accompanying notebook prepares a labeled text dataset, reconstructs the GPT-2 architecture, loads pretrained GPT-2 weights, replaces the language-model output layer with a classification head, and fine-tunes selected model layers.
 
 The notebook currently works with text stored in a `Comment` column and integer labels stored in an `Encoded_Sentiment` column. Although the project is described as document classification, the same pipeline can be adapted to comments, messages, reviews, or other short text documents.
 

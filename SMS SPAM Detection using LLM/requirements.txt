@@ -1,0 +1,17 @@
+# Data preparation and tokenization
+pandas
+numpy
+tiktoken
+kagglehub
+
+# Deep-learning model and GPT-2 checkpoint loading
+torch
+tensorflow
+
+# Checkpoint download and progress reporting
+requests
+tqdm
+
+# Training plots and notebook support
+matplotlib
+ipykernel
